@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-0c/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/deepak-portfolio-111)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deepakk38716401)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakthedev@gmail.com)
 
-📍 Ranchi, Jharkhand, India | 🎓 Computer Science Student | 💼 Open to Data Analyst Opportunities
+  🎓 Computer Science Student | 💼 Open to Data Analyst Opportunities
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-```python
+ ```python
 class DataAnalyst:
     def __init__(self):
         self.name = "Deepak Kumar"
@@ -294,7 +294,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-0c/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://bit.ly/deepak-portfolio-111)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Deepakk38716401)
-[![Email](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail)](mailto:deepakthedev@gmail.com)
 
 **📧 Feel free to reach out for:**
 - Job opportunities in data analytics
@@ -377,22 +377,7 @@ def analyze_data(data):
     return report
 ```
 
----
 
-## 🎖️ Skills Matrix
-
-| Skill | Proficiency | Experience |
-|-------|------------|-----------|
-| Python | ⭐⭐⭐⭐⭐ | 2+ years |
-| SQL | ⭐⭐⭐⭐☆ | 1+ years |
-| Data Visualization | ⭐⭐⭐⭐⭐ | 2+ years |
-| Statistical Analysis | ⭐⭐⭐⭐☆ | 1+ years |
-| Excel | ⭐⭐⭐⭐☆ | 3+ years |
-| Pandas/NumPy | ⭐⭐⭐⭐⭐ | 2+ years |
-| Machine Learning | ⭐⭐⭐☆☆ | Learning |
-| Tableau/Power BI | ⭐⭐⭐☆☆ | Learning |
-| Git/GitHub | ⭐⭐⭐⭐☆ | 1+ years |
-| Business Analysis | ⭐⭐⭐⭐☆ | 1+ years |
 
 ---
 
@@ -408,21 +393,6 @@ def analyze_data(data):
 
 ---
 
-## 🔗 Resources I Recommend
-
-**📚 For Aspiring Data Analysts:**
-- [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) - Best SQL learning resource
-- [Kaggle Learn](https://www.kaggle.com/learn) - Free micro-courses on data science
-- [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics/) - Comprehensive beginner course
-- [Python for Data Analysis Book](https://wesmckinney.com/book/) - By Pandas creator Wes McKinney
-
-**🎥 YouTube Channels:**
-- StatQuest with Josh Starmer
-- Ken Jee - Data Science Career Guidance
-- Alex the Analyst
-- Luke Barousse
-
----
 
 <div align="center">
 
