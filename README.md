@@ -17,41 +17,7 @@
 
 ## 🎯 About Me
 
- ```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Deepak Kumar"
-        self.role = "Data Analyst"
-        self.location = "Ranchi, India"
-        self.education = "Computer Science"
-        
-    def get_skills(self):
-        return {
-            'languages': ['Python', 'SQL', 'R'],
-            'analysis': ['Pandas', 'NumPy', 'SciPy', 'Statsmodels'],
-            'visualization': ['Matplotlib', 'Seaborn', 'Plotly', 'Tableau'],
-            'machine_learning': ['Scikit-learn', 'XGBoost'],
-            'tools': ['Jupyter', 'Git', 'Excel', 'VS Code'],
-            'databases': ['MySQL', 'PostgreSQL'],
-            'specialties': [
-                'Exploratory Data Analysis',
-                'Statistical Analysis',
-                'Financial Analytics',
-                'Data Storytelling',
-                'Business Intelligence'
-            ]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building impactful data analysis projects",
-            "Mastering advanced SQL & Python",
-            "Learning machine learning algorithms",
-            "Preparing for data analyst interviews"
-        ]
 
-me = DataAnalyst()
-```
 
 **🔥 What I Do:**
 - 📈 Transform raw data into actionable business insights
