@@ -352,7 +352,7 @@ def analyze_data(data):
 - ✅ Achieved 99.99% data quality in Amazon analysis project
 - ✅ Optimized portfolio achieving 15-20% risk reduction
 - ✅ Active contributor on GitHub with growing portfolio
-- 🎯 **Next Goal:** Land first data analyst role by Q1 2025!
+
 
 ---
 
